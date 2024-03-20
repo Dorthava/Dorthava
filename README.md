@@ -3,6 +3,7 @@
 * :tent: Kazan, Russia
 
 ## :hammer_and_wrench: Languages and Tools :
+### 🔧 Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
