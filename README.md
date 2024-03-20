@@ -1,3 +1,4 @@
+## 💡 About Me:
 * :mechanic: Sabirov Adel
 * :computer: Junior Backend Developer
 * :tent: Kazan, Russia
