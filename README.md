@@ -1,6 +1,6 @@
 ## 💡 About Me:
 * :mechanic: Sabirov Adel
-* :computer: Junior Backend Developer. Извучаю STM32, есть желание стать Embedded - разработчиком.
+* :computer: Junior Backend Developer. Изучаю STM32, есть желание стать Embedded - разработчиком.
 * :tent: Kazan, Russia
 
 ## :hammer_and_wrench: Languages and Tools :
