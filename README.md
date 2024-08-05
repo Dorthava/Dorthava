@@ -40,6 +40,7 @@
 | [JDBC](https://github.com/dorthava/java-jdbc)                 | 06.2024      | Exercises for learning JDBC technology               | Java, Maven, JDBC                                        |
 | [Console Game](https://github.com/dorthava/java-console-game) | 06.2024      | Simple console game                                  | Java, Maven, Java Collections API                        |
 | [Java Bootcamp](https://github.com/dorthava/java-bootcamp)    | 05.2024      | Java Core                                            | Maven, IO, Files, Threads, JAR                           |
+| [Sockets](https://github.com/dorthava/java-sockets)|07.2024|A simple client-server application implemented using Java NIO|Java, Maven, Java Collections API, Spring Framework, Java NIO|
 <!---
 Dorthava/Dorthava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
