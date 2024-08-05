@@ -28,6 +28,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="Cmake" width="" height="40"/>&nbsp;
 </div>
+
+### Java
+
+| Project name                                                  | Project date | Description                                          | Stack                                                    |
+|:--------------------------------------------------------------|:-------------|:-----------------------------------------------------|:---------------------------------------------------------|
+| [Telegram bot](https://github.com/dorthava/telegrambot)       | 08.2024      | Telegram bot for saving notes                        | Java, Maven, Java Collections API, Spring Framework, JPA |
+| [Spring Framework](https://github.com/dorthava/java-spring)   | 07.2024      | Exercises for learning Spring Framework              | Java, Maven, Java Collections API, Spring Framework      |
+| [Reflection](https://github.com/dorthava/java-reflection)     | 07.2024      | Exercises for learning Reflection technology         | Java, Maven, Java Collections API, Reflection            |
+| [JUnit/Mockito](https://github.com/dorthava/java-JUnit)       | 07.2024      | Exercises for learning testing technology with JUnit | Java, Maven, JUnit, Mockito                              |
+| [JDBC](https://github.com/dorthava/java-jdbc)                 | 06.2024      | Exercises for learning JDBC technology               | Java, Maven, JDBC                                        |
+| [Console Game](https://github.com/dorthava/java-console-game) | 06.2024      | Simple console game                                  | Java, Maven, Java Collections API                        |
+| [Java Bootcamp](https://github.com/dorthava/java-bootcamp)    | 05.2024      | Java Core                                            | Maven, IO, Files, Threads, JAR                           |
 <!---
 Dorthava/Dorthava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
